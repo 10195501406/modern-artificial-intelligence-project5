@@ -1,6 +1,6 @@
 os
-torch
 PIL
+torch
 numpy
 nltk
 gensim

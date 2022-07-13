@@ -1,6 +1,0 @@
-os
-PIL
-torch
-numpy
-nltk
-gensim
